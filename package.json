@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/utgwkk/20221024-sketch-node18-fetch-jest/issues"
   },
-  "homepage": "https://github.com/utgwkk/20221024-sketch-node18-fetch-jest#readme"
+  "homepage": "https://github.com/utgwkk/20221024-sketch-node18-fetch-jest#readme",
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
 }
