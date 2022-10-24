@@ -1,0 +1,19 @@
+{
+  "name": "20221024-sketch-node18-fetch-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utgwkk/20221024-sketch-node18-fetch-jest"
+  },
+  "author": "utgwkk <utagawakiki@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/utgwkk/20221024-sketch-node18-fetch-jest/issues"
+  },
+  "homepage": "https://github.com/utgwkk/20221024-sketch-node18-fetch-jest#readme"
+}
