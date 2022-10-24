@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/utgwkk/20221024-sketch-node18-fetch-jest#readme",
   "devDependencies": {
-    "jest": "^29.2.1"
+    "jest": "^29.2.1",
+    "jest-environment-jsdom": "^29.2.1"
   }
 }
